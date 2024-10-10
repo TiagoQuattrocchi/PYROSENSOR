@@ -14,7 +14,7 @@ int main(void) {
     while (true) {
         
         uint16_t pote_val = adc_read();
-        uint16_t esc_pot = pote_val * 200 / 4095;
+        uint16_t esc_pot = pote_val * 200.0 / 4095.0;
 
     }
 }
