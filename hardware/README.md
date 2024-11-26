@@ -2,7 +2,7 @@
 
 Todos los componentes electronicos utilizados en el proyecto:
 
-Raspberry Pi: El microcontrolador principal, encargado de procesar los datos de la termocupla y el potenciometro de 10k y controlar la velocidad del motor en base al software implementado en el microcontrolador. 
+Raspberry Pi: El microcontrolador principal, encargado de procesar los datos de la termocupla y el potenciometro de 10k, y controlar la velocidad del motor proporcionalmente en base al software implementado en el microcontrolador. 
 
 Termocupla MAX6675: Es un módulo termopar diseñado para medir temperaturas altas. Convierte la señal analógica del termopar tipo K a una señal digital compatible con la Raspberry Pi, usando un protocolo SPI.
 
