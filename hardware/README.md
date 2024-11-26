@@ -13,6 +13,6 @@ Motor DC 5V generico: Muestra graficamente el funcionamiento de la llave de paso
 
 Circuitos:
 
-Esquematico: Diagrama del circuito final utilizado.
+Esquematico: Diagrama del circuito final utilizado. <u>texto subrayado</u>
 
 PCB: Placa utilizada originalmente que luego se adapto a la utilizacion de un motor DC 5V utilizando un transistor BC337.
