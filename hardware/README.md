@@ -1,4 +1,4 @@
-#Hardware
+# Hardware
 
 Todos los componentes electronicos utilizados en el proyecto:
 
