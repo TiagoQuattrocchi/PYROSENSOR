@@ -8,4 +8,4 @@ Termocupla MAX6675: Es un módulo termopar diseñado para medir temperaturas alt
 
 Potenciómetro de 10k: Actúa como un divisor de voltaje ajustable. Que la raspberry procesara y luego implementara en el software.
 
-Motor DC 5V generico: Muestra graficamente el funcionamiento de la llave de paso de gas, empieza a funcionar cuando la temperatura seteada por el potenciometro supera los veinte grados.
+Motor DC 5V generico: Muestra graficamente el funcionamiento de la llave de paso de gas, empieza a funcionar cuando la temperatura seteada por el potenciometro supera los veinte grados. Y aumentara su velocidad proporcionalmente si la diferencia entre la temperatura medida y seteada es mayor a 20°.
