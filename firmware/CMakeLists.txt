@@ -76,3 +76,4 @@ target_link_libraries(pyrosensor
 )
 
 pico_add_extra_outputs(pyrosensor)
+
