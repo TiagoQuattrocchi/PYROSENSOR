@@ -1,11 +1,12 @@
 # PYROSENSOR
 PARTICIPANTES:
 
-Quattrocchi Tiago
+Castillo Ramiro
 
 Pino Octavio
 
-Castillo Ramiro
+Quattrocchi Tiago
 
-Trillo Contardi Mauricio
+Trillo Mauricio Contardi
 
+Pagina Web: https://tiagoquattrocchi.github.io/pyrosensor-web/
